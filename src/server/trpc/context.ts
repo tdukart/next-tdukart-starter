@@ -2,7 +2,7 @@ import { inferAsyncReturnType } from '@trpc/server';
 import * as trpcNext from '@trpc/server/adapters/next';
 import { getServerSession } from 'next-auth';
 
-import { authOptions } from '@/pages/api/auth/[...nextauth]';
+import { authOptions } from '@/app/auth/[...nextauth]/route';
 
 /**
  * Creates context for an incoming request
