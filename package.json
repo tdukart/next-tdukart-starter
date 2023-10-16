@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "docker-up": "docker-compose up -d",
     "build": "next build",
     "lint": "next lint",
     "start": "next start",
