@@ -24,7 +24,7 @@
     "@trpc/react-query": "^10.40.0",
     "@trpc/server": "^10.40.0",
     "autoprefixer": "^10.4.16",
-    "axios": "^1.5.1",
+    "axios": "^1.6.0",
     "classnames": "^2.3.2",
     "clsx": "^2.0.0",
     "framer-motion": "^10.16.4",
